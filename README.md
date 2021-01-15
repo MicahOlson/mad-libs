@@ -2,7 +2,7 @@
 
 ### A phrasal template word game.
 
-### _By Micah Olson_
+### _By Micah Olson and Andrew Lawson_
 
 ## Technologies Used
 * HTML
